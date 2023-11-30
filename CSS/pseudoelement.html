@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1::after{
+            content:"Morning"
+        }
+        h1::before{
+            content:"Very "
+        }
+        h1::first-letter{
+            color:blue;
+        }
+        h1::first-line{
+            background-color:aqua;
+        }
+        li::marker{
+            content:△;
+        }
+        /* li::selection{
+            background-color:blueviolet;
+            color:white;
+        } */
+    </style>
+</head>
+<body>
+    <h1>Good </h1>
+
+    <ul>
+        <li>ball</li>
+        <li>cat</li>
+        <li>dog</li>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,221 @@
+.navbar1{
+    /* border: 2px solid black; */
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    background-color:black;
+    
+
+}
+.menublock{
+    /* border: 2px solid blue; */
+    height: 75px;
+    width: 600px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.firstblock{
+    /* border: 2px solid green; */
+    height: 75px;
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.secblock{
+    /* border: 2px solid red; */
+    height: 75px;
+    width: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+ol{
+    /* border: 2px solid blue; */
+    width: 500px;
+    list-style:none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color:red;
+
+}
+a{
+    text-decoration: none;
+}
+#brand{
+    font-size: xx-large;
+    color: white;
+}
+#home{
+    font-size: x-large;
+    color: white;
+}
+input{
+    height: 35px;
+    width: 250px;
+}
+.div1{
+    display: flex ;
+    justify-content: space-evenly;
+    
+}
+#about{
+    color: darkgray;
+}
+#products{
+    color: darkgrey;
+}
+#button1{
+    height: 40px;
+    width: 120px;
+    background-color:black;
+    color: white;
+    
+}
+
+
+
+
+.navbar2{
+    /* border: 2px solid black; */
+    height: 75px;
+    display: flex;
+    justify-content: space-between; 
+    background-color:blue;
+
+
+}
+.menublock1{
+    /* border: 2px solid orange; */
+    height: 75px;
+    width: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.thirdblock{
+    /* border: 2px solid green; */
+    height: 75px;
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.fourthblock{
+    /* border: 2px solid red; */
+    height: 75px;
+    width: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.div2{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+ul{
+    border: 2px solid blue;
+    width: 500px;
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#brand1{
+    font-size: xx-large;
+    color: white;
+}
+#home1{
+    font-size:x-large ;
+    color: white;
+}
+#about1{
+    color: darkgrey;
+}
+#products1{
+    color: darkgrey;
+}
+#input1{
+    height: 35px;
+    width: 250px;
+}
+#button2{
+    height: 40px;
+    width: 120px;
+    background-color:blue;
+    color: white;
+    }
+
+
+
+
+
+    .navbar3{
+        border: 2px solid darkgray;
+        height: 75px;
+        display: flex;
+        justify-content: space-between;
+        background-color: white;
+        
+
+    }
+    .menublock2{
+        /* border: 2px solid blue; */
+        height: 75px;
+        width: 600px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center
+    }
+    .fifthblock{
+        /* border: 2px solid green; */
+        height: 75px;
+        width: 300px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .sixthblock{
+        /* border: 2px solid brown; */
+        height: 75px;
+        width: 150px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items:center;
+    }
+    .div3{
+        display: flex;
+        justify-content: space-evenly;
+    }  
+    #brand2{
+        font-size: xx-large;
+        color: black;
+    }  
+    #home2{
+        font-size: x-large;
+        color: black;
+    }
+    #about2{
+        color: darkgray;
+    }
+    #products2{
+        color: darkgrey;
+    }
+    #input2{
+        height: 35px;
+        width: 250px;
+    }
+    .button3{
+        border: 2px solid black;
+        height: 40px;
+        width: 120px;
+        background-color:white;
+        color: black;
+
+    }
